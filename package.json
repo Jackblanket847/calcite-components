@@ -34,7 +34,7 @@
     "util:sync-linked-package-versions": "tsx support/syncLinkedPackageVersions.ts"
   },
   "devDependencies": {
-    "@arcgis/lumina-compiler": "^4.32.0-next.121",
+    "@arcgis/lumina-compiler": "^5.1.19",
     "@cspell/dict-gis": "1.0.1",
     "@cspell/dict-pokemon": "1.0.1",
     "@cspell/dict-scientific-terms-us": "3.0.6",
@@ -72,7 +72,7 @@
     "@types/shell-quote": "1.7.5",
     "@typescript-eslint/rule-tester": "8.22.0",
     "@typescript-eslint/utils": "8.22.0",
-    "@vitest/coverage-v8": "2.1.8",
+    "@vitest/coverage-v8": "4.1.11",
     "@vitest/eslint-plugin": "1.1.25",
     "@whitespace/storybook-addon-html": "6.1.1",
     "autoprefixer": "10.4.20",
@@ -97,10 +97,10 @@
     "happy-dom": "16.8.1",
     "husky": "9.1.7",
     "jest-axe": "9.0.0",
-    "lerna": "8.1.9",
+    "lerna": "10.0.1",
     "lint-staged": "15.4.3",
-    "markdownlint-cli": "0.44.0",
-    "postcss": "8.5.1",
+    "markdownlint-cli": "0.49.1",
+    "postcss": "8.5.26",
     "prettier": "3.4.2",
     "puppeteer": "23.4.1",
     "react": "18.3.1",
@@ -108,7 +108,7 @@
     "rimraf": "6.0.1",
     "rollup": "4.34.0",
     "semver": "7.6.3",
-    "shell-quote": "1.8.2",
+    "shell-quote": "1.10.0",
     "storybook": "8.4.7",
     "storybook-addon-rtl": "1.0.1",
     "style-dictionary": "3.9.2",
@@ -117,12 +117,12 @@
     "stylelint-use-logical-spec": "5.0.1",
     "tailwindcss": "3.4.17",
     "tsx": "4.19.2",
-    "turbo": "2.4.0",
+    "turbo": "2.9.14",
     "typescript": "5.6.3",
     "typescript-eslint": "8.22.0",
     "typescript-strict-plugin": "2.4.4",
-    "vite": "5.4.14",
-    "vitest": "2.1.8"
+    "vite": "6.4.3",
+    "vitest": "4.1.11"
   },
   "license": "SEE LICENSE.md",
   "packageManager": "npm@10.2.3",
@@ -130,7 +130,7 @@
     "node": "20.16.0"
   },
   "dependencies": {
-    "patch-package": "8.0.0"
+    "patch-package": "8.0.1"
   },
   "optionalDependencies": {
     "@nx/nx-darwin-arm64": "20.3.3",
